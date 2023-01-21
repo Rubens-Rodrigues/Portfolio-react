@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.bcbc12a7.css",
+    "main.css": "/portfolio-react/static/css/main.fd428c66.css",
     "main.js": "/portfolio-react/static/js/main.8ee6f778.js",
     "static/media/lunazu.jpg": "/portfolio-react/static/media/lunazu.92c8d86c5284d61b3984.jpg",
     "static/media/ebook.jpg": "/portfolio-react/static/media/ebook.300c2efdd5a8b2b670f6.jpg",
@@ -13,11 +13,11 @@
     "static/media/logo.png": "/portfolio-react/static/media/logo.6daa04769e06fe4542e2.png",
     "static/media/physics.png": "/portfolio-react/static/media/physics.9e063bc5dc3391fec431.png",
     "index.html": "/portfolio-react/index.html",
-    "main.bcbc12a7.css.map": "/portfolio-react/static/css/main.bcbc12a7.css.map",
+    "main.fd428c66.css.map": "/portfolio-react/static/css/main.fd428c66.css.map",
     "main.8ee6f778.js.map": "/portfolio-react/static/js/main.8ee6f778.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcbc12a7.css",
+    "static/css/main.fd428c66.css",
     "static/js/main.8ee6f778.js"
   ]
 }
