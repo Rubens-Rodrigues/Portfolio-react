@@ -48,9 +48,9 @@ export const Footer = () => {
           <em style={{ color: "#329542" }}>Rubens Rodrigues</em>.
         </span>
       </div>
-      <form>
+      <form action="https://formsubmit.co/misterubens@gmail.com" method="POST">
         <h4>
-          Envie sua mensagem{" "}
+          Envie sua mensagem
           <span style={{ color: "#329542", fontSize: "20px" }}>✉</span>
         </h4>
         <input
