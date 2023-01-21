@@ -74,7 +74,7 @@ export const Footer = () => {
           placeholder="Deixe sua mensagem"
           required
         />
-        <button type="submit" name="submit" id="submit">
+        <button type="submit" name="submit">
           ENVIAR
         </button>
       </form>
