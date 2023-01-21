@@ -1,0 +1,50 @@
+header {
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  background-color: #303030;
+  z-index: 2;
+}
+
+header h1 {
+  color: #fff;
+  font-size: 1.4rem;
+}
+
+.itens {
+  width: 30%;
+  right: 0;
+}
+
+.logo {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 0;
+}
+
+.itens a {
+  padding: 0 10px;
+  font-size: 1.05rem;
+}
+
+@media screen and (max-width: 768px) {
+  .itens {
+    display: none;
+  }
+  .logo {
+    width: 100%;
+    justify-content: flex-start;
+    padding: 0 10px;
+  }
+  h1 {
+    font-size: 1.1rem;
+  }
+}
