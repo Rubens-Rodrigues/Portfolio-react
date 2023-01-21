@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.18520e44.css",
+    "main.js": "/portfolio-react/static/js/main.ee37cb3b.js",
+    "static/media/lunazu.jpg": "/portfolio-react/static/media/lunazu.92c8d86c5284d61b3984.jpg",
+    "static/media/ebook.jpg": "/portfolio-react/static/media/ebook.300c2efdd5a8b2b670f6.jpg",
+    "static/media/positive.jpg": "/portfolio-react/static/media/positive.80ca899c89e5ce1596c3.jpg",
+    "static/media/perfil.png": "/portfolio-react/static/media/perfil.e8f01b83ec2bf54052e4.png",
+    "static/media/thitattoo.jpg": "/portfolio-react/static/media/thitattoo.7a69c6c999e3f73937eb.jpg",
+    "static/media/linkbio.jpg": "/portfolio-react/static/media/linkbio.cef5666fac9d8138da8c.jpg",
+    "static/media/positivemulher.jpg": "/portfolio-react/static/media/positivemulher.058415311c137470948b.jpg",
+    "static/media/sass.png": "/portfolio-react/static/media/sass.bba6224f13449adf0f6a.png",
+    "static/media/logo.png": "/portfolio-react/static/media/logo.6daa04769e06fe4542e2.png",
+    "static/media/physics.png": "/portfolio-react/static/media/physics.9e063bc5dc3391fec431.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.18520e44.css.map": "/portfolio-react/static/css/main.18520e44.css.map",
+    "main.ee37cb3b.js.map": "/portfolio-react/static/js/main.ee37cb3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18520e44.css",
+    "static/js/main.ee37cb3b.js"
+  ]
+}
