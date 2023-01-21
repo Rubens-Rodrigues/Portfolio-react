@@ -68,6 +68,13 @@
     padding: 20px;
     margin: 0;
   }
+  .descricao h1 {
+    font-size: 3rem;
+  }
+  .descricao h2 {
+    font-size: 1.5rem;
+    margin-top: -.5rem;
+  }
   .descricao p {
     width: 80vw;
   }
